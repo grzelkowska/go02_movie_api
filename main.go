@@ -100,3 +100,5 @@ func main() {
 	fmt.Printf("Starting server at port 8000\n")
 	log.Fatal(http.ListenAndServe(":8000", r))
 }
+
+// Insomnia to manage
